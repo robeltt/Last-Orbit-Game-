@@ -77,11 +77,6 @@ javac -d bin -cp src src\lastorbit\Main.java
 
 ---
 
-## 📄 License
-
-Add your license here (for example MIT).
-
----
 
 ## 👤 Author
 
