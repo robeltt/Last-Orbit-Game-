@@ -10,9 +10,9 @@ Alien UFOs are descending on Earth, and you are the last line of defense. Pilot 
 ![Swing](https://img.shields.io/badge/UI-Swing%20%2F%20Graphics2D-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
-![Main menu](docs/menu.png)
-![Rule configuration](docs/rules.png)
-![Gameplay](docs/gameplay.png)
+![Main menu](docs/menu.jpg)
+![Rule configuration](docs/rules.jpg)
+![Gameplay](docs/gameplay.jpg)
 
 ---
 
